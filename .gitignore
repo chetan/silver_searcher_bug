@@ -1,5 +1,6 @@
 log/*.log
 ./log/*.log
+log/foo.log
 
 # meanwhile, this does work
 #*.log

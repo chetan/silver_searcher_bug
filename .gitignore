@@ -1,6 +1,4 @@
-log/*.log
-./log/*.log
-log/foo.log
+log
 
 # meanwhile, this does work
-#*.log
+#log/*
